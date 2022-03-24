@@ -1,0 +1,9 @@
+[debug] > Exec(close;, None, None)
+[debug] > Exec(close, None, None)
+[error] Not a valid command: close (similar: set, client, last)
+[error] Not a valid project ID: close
+[error] Expected ':'
+[error] Not a valid key: close (similar: console, clean, scalaHome)
+[error] close
+[error]      ^
+[debug] > Exec(idea-shell, None, None)

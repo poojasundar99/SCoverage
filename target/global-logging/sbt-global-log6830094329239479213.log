@@ -1,0 +1,14 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(coverage, Some(468e7e21-1c83-488c-ad72-f1158a0b630c), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(;set ThisBuild / coverageEnabled := true, None, Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(set ThisBuild / coverageEnabled := true, None, Some(CommandSource(console0)))[0m
+[0m[[0m[0minfo[0m] [0m[0mDefining ThisBuild / coverageEnabled[0m
+[0m[[0m[0minfo[0m] [0m[0mThe new value will be used by Compile / compile / scalacOptions, libraryDependencies[0m
+[0m[[0m[0mdebug[0m] [0m[0mDefining [0m
+[0m[[0m[0mdebug[0m] [0m[0m	ThisBuild / coverageEnabled[0m
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mThe new value will be used by [0m
+[0m[[0m[0mdebug[0m] [0m[0m	Compile / compile / scalacOptions[0m
+[0m[[0m[0mdebug[0m] [0m[0m	libraryDependencies[0m
+[0m[[0m[0minfo[0m] [0m[0mReapplying settings...[0m
+[0m[[0m[0minfo[0m] [0m[0mset current project to newSCoverage (in build file:/D:/Scala_Projects/newSCoverage/)[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m

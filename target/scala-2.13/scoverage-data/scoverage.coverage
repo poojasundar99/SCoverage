@@ -1,0 +1,88 @@
+# Coverage data, format version: 2.0
+# Statement data:
+# - id
+# - source path
+# - package name
+# - class name
+# - class type (Class, Object or Trait)
+# - full class name
+# - method name
+# - start offset
+# - end offset
+# - line number
+# - symbol name
+# - tree name
+# - is branch
+# - invocations count
+# - is ignored
+# - description (can be multi-line)
+# '' sign
+# ------------------------------------------
+1
+D:\Scala_Projects\newSCoverage\src\main\scala\Calculator1.scala
+<empty>
+Calculator1
+Class
+Calculator1
+add
+49
+52
+2
+scala.Int.+
+Apply
+false
+0
+false
+a.+(b)
+
+2
+D:\Scala_Projects\newSCoverage\src\main\scala\Calculator1.scala
+<empty>
+Calculator1
+Class
+Calculator1
+sub
+84
+87
+3
+scala.Int.-
+Apply
+false
+0
+false
+a.-(b)
+
+3
+D:\Scala_Projects\newSCoverage\src\main\scala\Calculator1.scala
+<empty>
+Calculator1
+Class
+Calculator1
+mul
+119
+122
+4
+scala.Int.*
+Apply
+false
+0
+false
+a.*(b)
+
+4
+D:\Scala_Projects\newSCoverage\src\main\scala\Calculator1.scala
+<empty>
+Calculator1
+Class
+Calculator1
+div
+154
+157
+5
+scala.Int./
+Apply
+false
+0
+false
+a./(b)
+
