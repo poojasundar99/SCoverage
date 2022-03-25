@@ -25,15 +25,15 @@ Calculator1
 Class
 Calculator1
 add
-49
-52
+60
+71
 2
 scala.Int.+
 Apply
 false
 0
 false
-a.+(b)
+num1.+(num2)
 
 2
 D:\Scala_Projects\newSCoverage\src\main\scala\Calculator1.scala
@@ -42,15 +42,15 @@ Calculator1
 Class
 Calculator1
 sub
-84
-87
-3
+114
+125
+4
 scala.Int.-
 Apply
 false
 0
 false
-a.-(b)
+num1.-(num2)
 
 3
 D:\Scala_Projects\newSCoverage\src\main\scala\Calculator1.scala
@@ -59,15 +59,15 @@ Calculator1
 Class
 Calculator1
 mul
-119
-122
-4
+168
+179
+6
 scala.Int.*
 Apply
 false
 0
 false
-a.*(b)
+num1.*(num2)
 
 4
 D:\Scala_Projects\newSCoverage\src\main\scala\Calculator1.scala
@@ -76,13 +76,132 @@ Calculator1
 Class
 Calculator1
 div
-154
-157
-5
+222
+233
+8
 scala.Int./
 Apply
 false
 0
 false
-a./(b)
+num1./(num2)
+
+5
+D:\Scala_Projects\newSCoverage\src\main\scala\Calculator1.scala
+<empty>
+Calculator1
+Object
+Calculator1
+<none>
+287
+304
+13
+Calculator1.<init>
+Apply
+false
+0
+false
+new Calculator1()
+
+6
+D:\Scala_Projects\newSCoverage\src\main\scala\Calculator1.scala
+<empty>
+Calculator1
+Object
+Calculator1
+<none>
+319
+324
+15
+<nosymbol>
+Literal
+false
+0
+false
+"add"
+
+7
+D:\Scala_Projects\newSCoverage\src\main\scala\Calculator1.scala
+<empty>
+Calculator1
+Object
+Calculator1
+<none>
+330
+332
+17
+Calculator1.ch
+Select
+false
+0
+false
+Calculator1.this.ch
+
+8
+D:\Scala_Projects\newSCoverage\src\main\scala\Calculator1.scala
+<empty>
+Calculator1
+Object
+Calculator1
+<none>
+360
+372
+18
+Calculator1.add
+Apply
+false
+0
+false
+Calculator1.this.obj.add(1, 3)
+
+9
+D:\Scala_Projects\newSCoverage\src\main\scala\Calculator1.scala
+<empty>
+Calculator1
+Object
+Calculator1
+<none>
+392
+405
+19
+Calculator1.sub
+Apply
+false
+0
+false
+Calculator1.this.obj.sub(22, 9)
+
+10
+D:\Scala_Projects\newSCoverage\src\main\scala\Calculator1.scala
+<empty>
+Calculator1
+Object
+Calculator1
+<none>
+425
+438
+20
+Calculator1.mul
+Apply
+false
+0
+false
+Calculator1.this.obj.mul(99, 8)
+
+11
+D:\Scala_Projects\newSCoverage\src\main\scala\Calculator1.scala
+<empty>
+Calculator1
+Object
+Calculator1
+<none>
+458
+473
+21
+Calculator1.div
+Apply
+false
+0
+false
+Calculator1.this.obj.div(210, 10)
 

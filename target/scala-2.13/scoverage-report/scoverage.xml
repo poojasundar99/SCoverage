@@ -1,24 +1,34 @@
 <scoverage 
-statement-count="4" statements-invoked="4" statement-rate="100.00" branch-rate="100.00" version="1.0" timestamp="1648121022985">
+statement-count="11" statements-invoked="4" statement-rate="36.36" branch-rate="100.00" version="1.0" timestamp="1648173924921">
     <packages>
-        <package name="&lt;empty&gt;" statement-count="4" statements-invoked="4" statement-rate="100.00">
+        <package name="&lt;empty&gt;" statement-count="11" statements-invoked="4" statement-rate="36.36">
             <classes>
                 <class 
-                name="Calculator1" filename="Calculator1.scala" statement-count="4" statements-invoked="4" statement-rate="100.00" branch-rate="100.00">
+                name="Calculator1" filename="Calculator1.scala" statement-count="11" statements-invoked="4" statement-rate="36.36" branch-rate="100.00">
                     <methods>
                         <method 
-                        name="&lt;empty&gt;/Calculator1/sub" statement-count="1" statements-invoked="1" statement-rate="100.00" branch-rate="100.00">
+                        name="&lt;empty&gt;/Calculator1/&lt;none&gt;" statement-count="7" statements-invoked="0" statement-rate="0.00" branch-rate="0.00">
                             <statements>
                                 <statement 
-                                package="&lt;empty&gt;" class="Calculator1" class-type="Class" full-class-name="Calculator1" source="D:\Scala_Projects\newSCoverage\src\main\scala\Calculator1.scala" method="sub" start="84" end="87" line="3" branch="false" invocation-count="1" ignored="false">
+                                package="&lt;empty&gt;" class="Calculator1" class-type="Object" full-class-name="Calculator1" source="D:\Scala_Projects\newSCoverage\src\main\scala\Calculator1.scala" method="&lt;none&gt;" start="360" end="372" line="18" branch="false" invocation-count="0" ignored="false">
 </statement>
-                            </statements>
-</method>
-                        <method 
-                        name="&lt;empty&gt;/Calculator1/div" statement-count="1" statements-invoked="1" statement-rate="100.00" branch-rate="100.00">
-                            <statements>
                                 <statement 
-                                package="&lt;empty&gt;" class="Calculator1" class-type="Class" full-class-name="Calculator1" source="D:\Scala_Projects\newSCoverage\src\main\scala\Calculator1.scala" method="div" start="154" end="157" line="5" branch="false" invocation-count="1" ignored="false">
+                                package="&lt;empty&gt;" class="Calculator1" class-type="Object" full-class-name="Calculator1" source="D:\Scala_Projects\newSCoverage\src\main\scala\Calculator1.scala" method="&lt;none&gt;" start="458" end="473" line="21" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Calculator1" class-type="Object" full-class-name="Calculator1" source="D:\Scala_Projects\newSCoverage\src\main\scala\Calculator1.scala" method="&lt;none&gt;" start="287" end="304" line="13" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Calculator1" class-type="Object" full-class-name="Calculator1" source="D:\Scala_Projects\newSCoverage\src\main\scala\Calculator1.scala" method="&lt;none&gt;" start="330" end="332" line="17" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Calculator1" class-type="Object" full-class-name="Calculator1" source="D:\Scala_Projects\newSCoverage\src\main\scala\Calculator1.scala" method="&lt;none&gt;" start="425" end="438" line="20" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Calculator1" class-type="Object" full-class-name="Calculator1" source="D:\Scala_Projects\newSCoverage\src\main\scala\Calculator1.scala" method="&lt;none&gt;" start="392" end="405" line="19" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Calculator1" class-type="Object" full-class-name="Calculator1" source="D:\Scala_Projects\newSCoverage\src\main\scala\Calculator1.scala" method="&lt;none&gt;" start="319" end="324" line="15" branch="false" invocation-count="0" ignored="false">
 </statement>
                             </statements>
 </method>
@@ -26,7 +36,23 @@ statement-count="4" statements-invoked="4" statement-rate="100.00" branch-rate="
                         name="&lt;empty&gt;/Calculator1/add" statement-count="1" statements-invoked="1" statement-rate="100.00" branch-rate="100.00">
                             <statements>
                                 <statement 
-                                package="&lt;empty&gt;" class="Calculator1" class-type="Class" full-class-name="Calculator1" source="D:\Scala_Projects\newSCoverage\src\main\scala\Calculator1.scala" method="add" start="49" end="52" line="2" branch="false" invocation-count="1" ignored="false">
+                                package="&lt;empty&gt;" class="Calculator1" class-type="Class" full-class-name="Calculator1" source="D:\Scala_Projects\newSCoverage\src\main\scala\Calculator1.scala" method="add" start="60" end="71" line="2" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="&lt;empty&gt;/Calculator1/sub" statement-count="1" statements-invoked="1" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="&lt;empty&gt;" class="Calculator1" class-type="Class" full-class-name="Calculator1" source="D:\Scala_Projects\newSCoverage\src\main\scala\Calculator1.scala" method="sub" start="114" end="125" line="4" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="&lt;empty&gt;/Calculator1/div" statement-count="1" statements-invoked="1" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="&lt;empty&gt;" class="Calculator1" class-type="Class" full-class-name="Calculator1" source="D:\Scala_Projects\newSCoverage\src\main\scala\Calculator1.scala" method="div" start="222" end="233" line="8" branch="false" invocation-count="1" ignored="false">
 </statement>
                             </statements>
 </method>
@@ -34,7 +60,7 @@ statement-count="4" statements-invoked="4" statement-rate="100.00" branch-rate="
                         name="&lt;empty&gt;/Calculator1/mul" statement-count="1" statements-invoked="1" statement-rate="100.00" branch-rate="100.00">
                             <statements>
                                 <statement 
-                                package="&lt;empty&gt;" class="Calculator1" class-type="Class" full-class-name="Calculator1" source="D:\Scala_Projects\newSCoverage\src\main\scala\Calculator1.scala" method="mul" start="119" end="122" line="4" branch="false" invocation-count="1" ignored="false">
+                                package="&lt;empty&gt;" class="Calculator1" class-type="Class" full-class-name="Calculator1" source="D:\Scala_Projects\newSCoverage\src\main\scala\Calculator1.scala" method="mul" start="168" end="179" line="6" branch="false" invocation-count="1" ignored="false">
 </statement>
                             </statements>
 </method>

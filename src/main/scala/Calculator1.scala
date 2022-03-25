@@ -1,6 +1,10 @@
 class Calculator1 {
-  def add(a:Int,b:Int):Int =a+b
-  def sub(a:Int,b:Int): Int = a-b
-  def mul(a:Int,b:Int): Int = a*b
-  def div(a:Int,b:Int): Int = a/b
+  def add(num1: Int, num2: Int): Int = num1 + num2
+
+  def sub(num1: Int, num2: Int): Int = num1 - num2
+
+  def mul(num1: Int, num2: Int): Int = num1 * num2
+
+  def div(num1: Int, num2: Int): Int = num1 / num2
 }
+
